@@ -1,6 +1,6 @@
 # Tytuł
 
-Tekst
+Tekst - Mateusz Nowak
 
 Test
 
