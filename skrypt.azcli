@@ -1,0 +1,5 @@
+az login
+
+az group list -o table
+
+az group create -n mf01 -l westeurope
